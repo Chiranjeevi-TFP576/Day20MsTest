@@ -1,0 +1,15 @@
+D:\Bridgelabs\Day20Assignment\Day20Assignment\bin\Debug\net6.0\Day20ExceptionMoodResponse.exe
+D:\Bridgelabs\Day20Assignment\Day20Assignment\bin\Debug\net6.0\Day20ExceptionMoodResponse.deps.json
+D:\Bridgelabs\Day20Assignment\Day20Assignment\bin\Debug\net6.0\Day20ExceptionMoodResponse.runtimeconfig.json
+D:\Bridgelabs\Day20Assignment\Day20Assignment\bin\Debug\net6.0\Day20ExceptionMoodResponse.dll
+D:\Bridgelabs\Day20Assignment\Day20Assignment\bin\Debug\net6.0\Day20ExceptionMoodResponse.pdb
+D:\Bridgelabs\Day20Assignment\Day20Assignment\obj\Debug\net6.0\Day20ExceptionMoodResponse.csproj.AssemblyReference.cache
+D:\Bridgelabs\Day20Assignment\Day20Assignment\obj\Debug\net6.0\Day20ExceptionMoodResponse.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bridgelabs\Day20Assignment\Day20Assignment\obj\Debug\net6.0\Day20ExceptionMoodResponse.AssemblyInfoInputs.cache
+D:\Bridgelabs\Day20Assignment\Day20Assignment\obj\Debug\net6.0\Day20ExceptionMoodResponse.AssemblyInfo.cs
+D:\Bridgelabs\Day20Assignment\Day20Assignment\obj\Debug\net6.0\Day20ExceptionMoodResponse.csproj.CoreCompileInputs.cache
+D:\Bridgelabs\Day20Assignment\Day20Assignment\obj\Debug\net6.0\Day20ExceptionMoodResponse.dll
+D:\Bridgelabs\Day20Assignment\Day20Assignment\obj\Debug\net6.0\refint\Day20ExceptionMoodResponse.dll
+D:\Bridgelabs\Day20Assignment\Day20Assignment\obj\Debug\net6.0\Day20ExceptionMoodResponse.pdb
+D:\Bridgelabs\Day20Assignment\Day20Assignment\obj\Debug\net6.0\Day20ExceptionMoodResponse.genruntimeconfig.cache
+D:\Bridgelabs\Day20Assignment\Day20Assignment\obj\Debug\net6.0\ref\Day20ExceptionMoodResponse.dll
